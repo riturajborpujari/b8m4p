@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "raylib": "^0.14.0",
+    "ref-napi": "^3.0.3"
+  }
+}
